@@ -5,6 +5,13 @@ A super simple bodyweight workout notification system.
 
 Obviously needs Python. Made for MacOS.
 
+Why?
+====
+
+[Sitting is bad](https://www.bloomberg.com/quicktake/dangers-of-sitting) and standing desks suck.
+
+workout.py is a perfect middle ground for me.
+
 
 Installation
 ============
