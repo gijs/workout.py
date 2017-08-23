@@ -3,7 +3,11 @@ workout.py
 
 A super simple bodyweight workout notification system.
 
-Obviously needs Python. Made for MacOS.
+Obviously needs Python. 
+Also needs [terminal-notifier](https://github.com/julienXX/terminal-notifier). 
+
+Made for MacOS.
+
 
 Why?
 ====
