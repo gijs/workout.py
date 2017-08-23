@@ -34,3 +34,7 @@ Add this to your crontab:
 1,31 8-18 * * * /path/to/workout.py
 ```
 
+More workouts?
+==============
+
+Have a look at [/r/bodyweightfitness](https://www.reddit.com/r/bodyweightfitness/) for inspiration, and copy your new workouts into the [workouts](https://github.com/gijs/workout.py/blob/master/workout.py#L12) list.
